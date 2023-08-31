@@ -16,7 +16,7 @@ const WorksPage = () => {
           href="/"
           title="Portfolio"
           description="制作物や記事をまとめたポートフォリオサイト"
-          tech="Next.js, React.js, Typescript, TailwindCSS, Shadcn - ui"
+          tech="Next.js, React.js, Typescript, TailwindCSS, Shadcn-ui"
           func="レスポンシブデザイン, ダークモード"
         />
         <WorksItem
@@ -25,6 +25,13 @@ const WorksPage = () => {
           description="ガジェット商品専門の架空のフリーマーケットサイト"
           tech="Next.js, React.js, Typescript, TailwindCSS, prisma mongodb"
           func="レスポンシブデザイン, 会員登録機能, 商品の出品機能, 画像のアップロード機能, お気に入り登録機能"
+        />
+        <WorksItem
+          href="https://study-share-81duobtak-prog-daiki.vercel.app"
+          title="StudyShare（*未完成）"
+          description="学習のアウトプットを共有するサイト"
+          tech="Next.js, React.js, Typescript, TailwindCSS, prisma, mongodb, Shadcn-ui, clerk"
+          func="レスポンシブデザイン, 会員登録機能, 投稿機能, 画像のアップロード機能, お気に入り登録機能, フォロー機能, コメント機能, 通知機能"
         />
       </div>
     </>
