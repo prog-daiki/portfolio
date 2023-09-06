@@ -33,6 +33,13 @@ const WorksPage = () => {
           tech="Next.js, React.js, Typescript, TailwindCSS, prisma, mongodb, Shadcn-ui, clerk"
           func="レスポンシブデザイン, 会員登録機能, 投稿機能, 画像のアップロード機能, お気に入り登録機能, フォロー機能, コメント機能, 通知機能"
         />
+        <WorksItem
+          href="https://auth-form-pi.vercel.app"
+          title="AuthForm"
+          description="NextAuthを用いた会員登録機能"
+          tech="Next.js, React.js, Typescript, TailwindCSS, prisma, mongodb, NextAuth"
+          func="レスポンシブデザイン, 会員登録機能, ログイン機能, ログアウト機能"
+        />
       </div>
     </>
   )
