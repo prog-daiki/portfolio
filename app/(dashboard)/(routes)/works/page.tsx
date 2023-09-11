@@ -27,10 +27,10 @@ const WorksPage = () => {
           func="レスポンシブデザイン, 会員登録機能, 商品の出品機能, 画像のアップロード機能, お気に入り登録機能"
         />
         <WorksItem
-          href="https://study-share-81duobtak-prog-daiki.vercel.app"
+          href="https://portfolio-study-share.vercel.app"
           title="StudyShare（*未完成）"
           description="学習のアウトプットを共有するサイト"
-          tech="Next.js, React.js, Typescript, TailwindCSS, prisma, mongodb, Shadcn-ui, clerk"
+          tech="Next.js, React.js, Typescript, TailwindCSS, prisma, mongodb, Shadcn-ui"
           func="レスポンシブデザイン, 会員登録機能, 投稿機能, 画像のアップロード機能, お気に入り登録機能, フォロー機能, コメント機能, 通知機能"
         />
         <WorksItem
