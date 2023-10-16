@@ -1,6 +1,6 @@
-import Heading from "@/components/heading"
-import WorksItem from "@/components/works-item"
-import { AppWindow, ArrowRight } from "lucide-react"
+import Heading from "@/components/heading";
+import WorksItem from "@/components/works-item";
+import { AppWindow, ArrowRight } from "lucide-react";
 
 const WorksPage = () => {
   return (
@@ -20,11 +20,11 @@ const WorksPage = () => {
           func="レスポンシブデザイン, ダークモード"
         />
         <WorksItem
-          href="https://tech-market-portfolio.vercel.app"
+          href="https://tech-market-prog-josazzjbx-prog-daiki.vercel.app"
           title="TechMarket"
           description="ガジェット商品専門の架空のフリーマーケットサイト"
-          tech="Next.js, React.js, Typescript, TailwindCSS, prisma mongodb"
-          func="レスポンシブデザイン, 会員登録機能, 商品の出品機能, 画像のアップロード機能, お気に入り登録機能"
+          tech="Next.js, React.js, Typescript, TailwindCSS, prisma, mongodb, Shadcn-ui"
+          func="レスポンシブデザイン, 会員登録機能, 商品の出品機能, 画像のアップロード機能, お気に入り登録機能, 検索機能"
         />
         <WorksItem
           href="https://portfolio-study-share.vercel.app"
@@ -42,7 +42,7 @@ const WorksPage = () => {
         />
       </div>
     </>
-  )
-}
+  );
+};
 
-export default WorksPage
+export default WorksPage;
