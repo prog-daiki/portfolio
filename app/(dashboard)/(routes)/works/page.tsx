@@ -20,7 +20,7 @@ const WorksPage = () => {
           func="レスポンシブデザイン, ダークモード"
         />
         <WorksItem
-          href="https://tech-market-prog-josazzjbx-prog-daiki.vercel.app"
+          href="https://tech-market-prog.vercel.app"
           title="TechMarket"
           description="ガジェット商品専門の架空のフリーマーケットサイト"
           tech="Next.js, React.js, Typescript, TailwindCSS, prisma, mongodb, Shadcn-ui"
